@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/gardiners/gardiners.r-universe.dev
 	branch = HEAD
+[submodule "lockr"]
+	path = lockr
+	url = https://github.com/gardiners/lockr
 [submodule "ozgs"]
 	path = ozgs
 	url = https://github.com/gardiners/ozgs
