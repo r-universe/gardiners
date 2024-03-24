@@ -8,4 +8,4 @@
 [submodule "ozgs"]
 	path = ozgs
 	url = https://github.com/gardiners/ozgs
-	branch = *release
+	branch = v0.1.0
