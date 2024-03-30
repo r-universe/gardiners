@@ -9,3 +9,6 @@
 	path = ozgs
 	url = https://github.com/gardiners/ozgs
 	branch = v0.1.0
+[submodule "pinbrowser"]
+	path = pinbrowser
+	url = https://github.com/gardiners/pinbrowser
