@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/gardiners/gardiners.r-universe.dev
 	branch = HEAD
+[submodule "doestyle"]
+	path = doestyle
+	url = https://bitbucket.org/nsw-education/doestyle
 [submodule "lockr"]
 	path = lockr
 	url = https://github.com/gardiners/lockr
